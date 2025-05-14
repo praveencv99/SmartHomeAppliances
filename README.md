@@ -34,3 +34,6 @@ Light Appliance is turned OFF
 Fan  Appliance is turned OFF, current regulator speed is ->0
 Air Conditioner Appliance is turned OFF
 ************ Turn OFF all Appliances under Smart Home Appliances Control System as Part of Yearly Automatic Maintenence completed ***********
+
+![image](https://github.com/user-attachments/assets/adea7a5e-fef9-44e8-bb28-dc3f29a1ac11)
+
